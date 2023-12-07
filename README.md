@@ -135,4 +135,4 @@ El resultado final quedo asi:
 
 ## Otras soluciones
 
-- Finalmente despues de corregir el archivo del [tutorial](power-bi-tutorial), procedi con terminar mi [solucion](power-bi-sin-dividir-tabla) en donde quitaba la division de la tabla excel, y luego de eso repliqué la misma solucion trabajando unicamente en el archivo de [excel](dashboard-en-excel) sin utilizar Power Bi.
+- Finalmente despues de corregir el archivo del [tutorial](Power%20BI%20tutorial), procedi con terminar mi [solucion](Power%20BI%20sin%20dividir%20tabla) en donde quitaba la division de la tabla excel, y luego de eso repliqué la misma solucion trabajando unicamente en el archivo de [excel](Dashboard%20en%20excel) sin utilizar Power Bi.
